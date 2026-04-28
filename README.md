@@ -13,5 +13,3 @@ Continuously deepening my understanding of backend development, from REST API de
 **Core Technologies**
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,python,idea,postman&perrow=9)](https://skillicons.dev)
-
-**Projects:** [Uniform Management System](https://github.com/devlil0/uniform-system) · [Free Fire Telegram Bot](https://github.com/devlil0/freefire-telegram-bot)
