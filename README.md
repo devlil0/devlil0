@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilloliveira999)
 
-**Backend Developer • Java • Spring Boot • REST APIs**
+**Backend Developer | Java | Spring Boot | REST APIs**
 
 Backend developer focused on building structured, layer-based web systems using Java and Spring Boot.
 
