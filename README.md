@@ -10,11 +10,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilloliveira999)
   [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logoColor=white)](https://devlil0.xyz)
 
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=devlil0&style=for-the-badge&color=000000"/>
-    <img src="https://img.shields.io/github/commit-activity/y/devlil0/devlil0?style=for-the-badge&color=000000"/>
-    <img src="https://img.shields.io/github/repo-size/devlil0/devlil0?style=for-the-badge&color=000000"/>
-  </div>
 </div>
 
 ---
@@ -23,11 +18,11 @@
 
 ### Backend Developer | Java | Spring Boot | REST APIs
 
-Backend developer focused on building structured, layer-based web systems using 
+Focused on building structured, layer-based web systems using 
 **Java** and **Spring Boot**.
 
 Interested in clean architecture, object-oriented design, REST API development,
-database modeling, and writing code that solves real problems — not just code that runs.
+database modeling, and writing code that solves real problems, not just code that runs.
 
 Continuously deepening my understanding of backend development, from API design and 
 persistence layers to containerization, dependency injection, and scalable application structure.
