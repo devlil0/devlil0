@@ -2,6 +2,7 @@
   <p align="center">
     <img src="assets/banner.png" alt="Banner" width="100%">
   </p>
+
   <p align="center">
     <b>Backend Developer | Java | Spring Boot | REST APIs</b>
   </p>
@@ -12,10 +13,10 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilloliveira999)
   [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logoColor=white)](https://devlil0.xyz)
-
 </div>
 
 ---
+
 Focused on building structured, layer-based web systems using 
 **Java** and **Spring Boot**.
 
@@ -25,7 +26,11 @@ database modeling, and writing code that solves real problems, not just code tha
 Continuously deepening my understanding of backend development, from API design and 
 persistence layers to containerization, dependency injection, and scalable application structure.
 
-</div>
+<br>
+
+<p align="center">
+  <img src="assets/kite.png" alt="Kite" width="100%">
+</p>
 
 <br>
 
