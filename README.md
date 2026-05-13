@@ -18,7 +18,7 @@
 ---
 
 <div align="left">
-<h1 align="center">Murillo Oliveira</h1>
+<h1 align="left">Murillo Oliveira</h1>
 ### Backend Developer | Java | Spring Boot | REST APIs
 
 Focused on building structured, layer-based web systems using 
