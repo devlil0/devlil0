@@ -2,9 +2,6 @@
   <p align="center">
     <img src="assets/banner.png" alt="Banner" width="100%">
   </p>
-
-  <h1 align="center">Murillo Oliveira</h1>
-
   <p align="center">
     <b>Backend Developer | Java | Spring Boot | REST APIs</b>
   </p>
@@ -21,7 +18,7 @@
 ---
 
 <div align="left">
-
+<h1 align="center">Murillo Oliveira</h1>
 ### Backend Developer | Java | Spring Boot | REST APIs
 
 Focused on building structured, layer-based web systems using 
