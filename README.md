@@ -16,12 +16,6 @@
 </div>
 
 ---
-<h1 align="left">Murillo Oliveira</h1>
-
-<div align="left">
-
-**>_ BACKEND DEVELOPER** 
-
 Focused on building structured, layer-based web systems using 
 **Java** and **Spring Boot**.
 
