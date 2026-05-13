@@ -29,7 +29,7 @@ persistence layers to containerization, dependency injection, and scalable appli
 <br>
 
 <p align="center">
-  <img src="assets/kite-blink.gif" alt="Kite Monochrome Moody" width="100%">
+  <img src="assets/kite-loop.gif" alt="Kite Monochrome Moody" width="100%">
 </p>
 
 <br>
