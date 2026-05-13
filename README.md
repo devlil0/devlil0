@@ -16,10 +16,11 @@
 </div>
 
 ---
+<h1 align="left">Murillo Oliveira</h1>
 
 <div align="left">
-<h1 align="left">Murillo Oliveira</h1>
-Java | Spring Boot | REST APIs
+
+**>_ BACKEND DEVELOPER** 
 
 Focused on building structured, layer-based web systems using 
 **Java** and **Spring Boot**.
