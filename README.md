@@ -1,12 +1,8 @@
 <div align="left">
 
 
-  <p align="center">
+  <p align="left">
     <b>Backend Developer | Java | Spring Boot | REST APIs</b>
-  </p>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;PostgreSQL+%7C+Docker+%7C+Git;loading...&background=000000"/>
   </p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilloliveira999)
