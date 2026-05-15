@@ -1,7 +1,5 @@
-<div align="center">
-  <p align="center">
-    <img src="assets/banner.png" alt="Banner" width="100%">
-  </p>
+<div align="left">
+
 
   <p align="center">
     <b>Backend Developer | Java | Spring Boot | REST APIs</b>
