@@ -25,12 +25,12 @@ Currently improving my understanding of backend development, from API design and
 
 <p>
   <b>Whey Promotion Bot</b><br>
-  tracks whey protein prices, compares cost-benefit by protein gram and sends automated WhatsApp alerts.
+  Tracks whey protein prices, compares cost-benefit by protein gram and sends automated WhatsApp alerts.
 </p>
 
 <p>
   <b>Uniform Management System</b><br>
-  manages orders, production, inventory and delivery workflows for a uniform factory system.
+  Manages orders, production, inventory and delivery workflows for a uniform factory system.
 </p>
 
 <p align="left">
