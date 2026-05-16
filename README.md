@@ -8,9 +8,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilloliveira999)
   [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logoColor=white)](https://devlil0.xyz)
 </div>
-
 ---
-
 Focused on building structured, layer-based web systems using 
 **Java** and **Spring Boot**.
 
@@ -19,16 +17,15 @@ database modeling, and writing code that solves real problems, not just code tha
 
 Continuously deepening my understanding of backend development, from API design and 
 persistence layers to containerization, dependency injection, and scalable application structure.
-
 <br>
-
 ---
-
 ### Selected Projects
 
 - Whey Promotion Bot — Java/Spring Boot app that tracks whey prices, calculates cost-benefit by protein gram and sends automated WhatsApp alerts.
 - Uniform Management System — Spring Boot system for managing orders, production, inventory and delivery workflows.
-
+  [![Whey](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/devlil0/whey-promotion-bot)
+  [![Uniform](https://img.shields.io/badge/Website-000?style=for-the-badge&logoColor=white)](https://github.com/devlil0/uniform-system)
+---
 <p align="center">
   <img src="assets/kite-loop-apng-small.png" alt="Kite Monochrome Moody" width="100%">
 </p>
