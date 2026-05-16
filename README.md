@@ -4,15 +4,12 @@
     <b>Backend Developer | Java | Spring Boot | REST APIs</b>
   </p>
 
-  <a href="https://linkedin.com/in/murilloliveira999">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://devlil0.xyz">
-    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
+  <p align="left">
+    <a href="https://linkedin.com/in/murilloliveira999"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://devlil0.xyz"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  </p>
 
 </div>
-
 ---
 
 Focused on building structured, layer-based web systems using **Java** and **Spring Boot**.
