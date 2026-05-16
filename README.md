@@ -13,11 +13,11 @@
 
 <hr>
 
-i build backend applications with **Java** and **Spring Boot**, focusing on clean structure, REST APIs, persistence layers and real world problems.
+Focused on building structured backend applications using **Java** and **Spring Boot**.
 
-i'm interested in code that is simple to understand, easy to maintain and useful outside of a tutorial.
+Interested in clean architecture, object-oriented design, REST API development, database modeling, and code that solves real problems, not just code that runs.
 
-currently improving my knowledge in backend development, databases, Docker, dependency injection and application architecture.
+Currently improving my understanding of backend development, from API design and persistence layers to **Docker**, dependency injection, and scalable application structure.
 
 <hr>
 
