@@ -1,4 +1,4 @@
-<img width="1445" height="630" alt="image" src="https://github.com/user-attachments/assets/750350b7-2c1b-47c3-964e-f794adff0ead" /><div align="left">
+<div align="left">
 
   <p align="left">
     <b>Backend Developer | Java | Spring Boot | REST APIs</b>
@@ -24,13 +24,13 @@ Currently improving my understanding of backend development, from API design and
 ### Selected Projects
 
 <p>
-  <b>Whey Promotion Bot
-  </b><br>tracks whey protein prices, compares cost benefit by protein gram and sends automated WhatsApp alerts.
+  <b>Whey Promotion Bot</b><br>
+  tracks whey protein prices, compares cost-benefit by protein gram and sends automated WhatsApp alerts.
 </p>
 
 <p>
-  <b>Uniform Management System
-  </b><br>manages orders, production, inventory and delivery workflows for a uniform factory system.
+  <b>Uniform Management System</b><br>
+  manages orders, production, inventory and delivery workflows for a uniform factory system.
 </p>
 
 <p align="left">
@@ -45,5 +45,5 @@ Currently improving my understanding of backend development, from API design and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlil0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlil0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/>
 </p>
