@@ -22,6 +22,13 @@ persistence layers to containerization, dependency injection, and scalable appli
 
 <br>
 
+---
+
+### Selected Projects
+
+- Whey Promotion Bot — Java/Spring Boot app that tracks whey prices, calculates cost-benefit by protein gram and sends automated WhatsApp alerts.
+- Uniform Management System — Spring Boot system for managing orders, production, inventory and delivery workflows.
+
 <p align="center">
   <img src="assets/kite-loop-apng-small.png" alt="Kite Monochrome Moody" width="100%">
 </p>
