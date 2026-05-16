@@ -1,4 +1,4 @@
-<div align="left">
+<img width="1445" height="630" alt="image" src="https://github.com/user-attachments/assets/750350b7-2c1b-47c3-964e-f794adff0ead" /><div align="left">
 
   <p align="left">
     <b>Backend Developer | Java | Spring Boot | REST APIs</b>
@@ -25,12 +25,12 @@ Currently improving my understanding of backend development, from API design and
 
 <p>
   <b>Whey Promotion Bot
-  </b> tracks whey protein prices, compares cost benefit by protein gram and sends automated WhatsApp alerts.
+  </b><br>tracks whey protein prices, compares cost benefit by protein gram and sends automated WhatsApp alerts.
 </p>
 
 <p>
   <b>Uniform Management System
-  </b> manages orders, production, inventory and delivery workflows for a uniform factory system.
+  </b><br>manages orders, production, inventory and delivery workflows for a uniform factory system.
 </p>
 
 <p align="left">
